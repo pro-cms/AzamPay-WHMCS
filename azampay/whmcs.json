@@ -1,0 +1,31 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "AzamPay",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "AzamPay Payment Gateway",
+        "tagline": "AzamPay  is the #1 most scalable payment gateway in Tanzania and widely used to acquire consumer payments in the media, ecommerce and hospitality sector.",
+        "long": "AzamPay WHMCS Plugin 1.0 is the most convenient and secure no-code integration to accept all mobile money payments. Get connected with millions of customers of AzamPesa, Airtel Money, Halotel, and TigoPesa to transact on your marketplace.",
+        "features": [
+            "No Code Integration",
+            "24/7 Customer Support",
+            "Reporting and Reconciliation made easy",
+            "24 hr refund process"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/azampay.com\/whmcs\/",
+        "docs_url": "https:\/\/developers.azampay.co.tz\/home"
+    },
+    "authors": [
+        {
+            "name": "AzamPay LTD",
+            "homepage": "https:\/\/www.azampay.com\/"
+        }
+    ]
+}
