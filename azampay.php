@@ -35,7 +35,8 @@ if (isset($_POST['azampay_model']) && $_POST['azampay_model'] != '') {
     $testMode = $_POST['testMode'];
     $data = base64_decode($_POST['azampay_model']);
     if ($testMode == "yes" || $testMode) {
-        $url = 'https://checkout-test.azampay.co.tz/api/v1/Partner/PostCheckout';
+        // $url = 'https://checkout-test.azampay.co.tz/api/v1/Partner/PostCheckout';
+        $url = 'https://sandbox.azampay.co.tz/api/v1/Partner/PostCheckout';
     } else {
         $url = 'https://checkout.azampay.co.tz/api/v1/Partner/PostCheckout';
     }
