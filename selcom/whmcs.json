@@ -1,0 +1,31 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": " Selcom",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": " Selcom Payment Gateway",
+        "tagline": " Selcom  is the #1 most scalable payment gateway in Tanzania and widely used to acquire consumer payments in the media, ecommerce and hospitality sector.",
+        "long": " Selcom WHMCS Plugin 1.0 is the most convenient and secure no-code integration to accept all mobile money payments. Get connected with millions of customers of AzamPesa, Airtel Money, Halotel, and TigoPesa to transact on your marketplace.",
+        "features": [
+            "No Code Integration",
+            "24/7 Customer Support",
+            "Reporting and Reconciliation made easy",
+            "24 hr refund process"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/ Selcom.com\/whmcs\/",
+        "docs_url": "https:\/\/developers. Selcom.co.tz\/home"
+    },
+    "authors": [
+        {
+            "name": " Selcom LTD",
+            "homepage": "https:\/\/www. Selcom.com\/"
+        }
+    ]
+}
